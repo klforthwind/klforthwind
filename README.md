@@ -1,16 +1,15 @@
-### Hi there 👋
+# 👋 Hello there! I'm [Kevin LaCasse / Forthwind](https://klforthwind.com)
 
-<!--
-**klforthwind/klforthwind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🤔   Interested in the CS field
+* 🎓   UMN-TC alumni with a BS in CS
+* 🌱   Currently learning ML / AI
+* 💻   Always looking for new projects
+* 😄   Pronouns: **He/They**
 
-Here are some ideas to get you started:
+![Forthwind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=klforthwind&theme=tokyonight&show_icons=true&cache_seconds=10000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klforthwind&theme=tokyonight&hide=TeX&layout=compact&cache_seconds=10000)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--<p align="center">
+<img width="57%"align="left" src="https://github-readme-stats.vercel.app/api?username=klforthwind&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
+<img width="42%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klforthwind&hide_langs_below=1&theme=tokyonight&line_height=27&layout=compact" />
+</p>-->
