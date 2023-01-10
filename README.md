@@ -2,7 +2,6 @@
 
 * 🤔   Interested in the CS field
 * 🎓   UMN-TC alumni with a BS in CS
-* 🌱   Currently learning ML / AI
 * 💻   Always looking for new projects
 * 😄   Pronouns: **He/They**
 
